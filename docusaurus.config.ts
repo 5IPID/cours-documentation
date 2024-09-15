@@ -15,8 +15,10 @@ const config: Config = {
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'seblejeune', // Usually your GitHub org/user name.
+  organizationName: '5IPID', // Usually your GitHub org/user name.
   projectName: 'cours-documentation', // Usually your repo name.
+  deploymentBranch: 'gh-pages',
+  trailingSlash: false,
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
@@ -86,7 +88,7 @@ const config: Config = {
         },
         {to: '/blog', label: 'Blog', position: 'left'},
         {
-          href: 'https://github.com/facebook/docusaurus',
+          href: 'https://github.com/5IPID/cours-documentation',
           label: 'GitHub',
           position: 'right',
         },
