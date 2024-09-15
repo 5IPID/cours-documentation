@@ -88,7 +88,7 @@ const config: Config = {
         },
         {to: '/blog', label: 'Blog', position: 'left'},
         {
-          href: 'https://github.com/5IPID/cours-documentation',
+          href: 'https://github.com/5IPID/cours-documentation.git',
           label: 'GitHub',
           position: 'right',
         },
