@@ -10,7 +10,7 @@ title: Théorie
 
 Préparé par **Mr. Lejeune**
 
-## QU’EST CE QUE C’EST ? 
+## Qu'est ce que c'est ?
 
 SaaS ou Software as a Service se réfère à tout service Cloud permettant aux clients d’avoir accès à des applications logicielles sur Internet. Ces applications sont hébergées dans le Cloud et peuvent être utilisées pour un large éventail de tâches, tant par les personnes privées que par les organisations. Google, Twitter, Facebook… sont tous des exemples de SaaS, où les utilisateurs peuvent avoir accès aux services via n’importe quel appareil disposant d’une connexion Internet. 
 
@@ -20,7 +20,7 @@ On emploie souvent l’expression de "logiciel à la demande" pour parler des se
 
 En revanche, les utilisateurs ayant recours à une offre de Software as a Service souscrivent un **abonnement** au logiciel souhaité, généralement sur une base mensuelle, plutôt que de l’acheter. L’achat et l’utilisation des applications se fait en ligne, et les fichiers sont sauvegardés dans le Cloud plutôt que sur un ordinateur individuel.
 
-## AVANTAGES
+## Avantages
 
 Il existe de nombreuses raisons pour lesquelles le SaaS est avantageux tant pour les organisations que pour les individus :
 
@@ -33,7 +33,7 @@ Il existe de nombreuses raisons pour lesquelles le SaaS est avantageux tant pour
 - **Accessible depuis partout** : avec un appareil disposant d’une connexion à Internet, il est possible d’accéder aux applications depuis n’importe où, sans être limité à un ordinateur particulier.
 - **Personnalisation** : il est possible de personnaliser certains logiciels pour répondre aux besoins spécifiques d’un client.
 
-## INCONVÉNIENTS
+## Inconvénients
 
 - **Données hébergées par un tiers** : les données relatives à l’entreprise et leurs clients sont stockées sur les serveurs du prestataire.
 - **Confidentialité dépendante de la législation locale** : le niveau de confidentialité des données dépend de la législation du pays de l’hébergeur.
@@ -41,20 +41,20 @@ Il existe de nombreuses raisons pour lesquelles le SaaS est avantageux tant pour
 - **Connexion Internet requise** : une connexion rapide et stable est nécessaire pour accéder aux services.
 - **Indisponibilité en cas de panne** : si le fournisseur suspend temporairement ses services pour maintenance ou à cause de pannes, les applications ne seront pas utilisables.
 
-## EXEMPLES
+## Exemples
 
 Les logiciels Office sont un excellent exemple d’entreprises utilisant un service SaaS. Les opérations de comptabilité, facturation, ventes et planification peuvent être effectuées via l’offre de Software as a Service. Une entreprise peut souhaiter utiliser un seul logiciel qui exécute toutes ces opérations ou plusieurs logiciels dont chacun peut exécuter une tâche spécifique. 
 
 Le logiciel souhaité peut être souscrit en ligne, puis on y accède depuis n’importe quel ordinateur de bureau via un identifiant et un mot de passe. En cas de modification des besoins de l’entreprise, il est facile de passer à un autre logiciel correspondant mieux aux nouvelles exigences. 
 
-## SOURCES
+## Sources
 
 - [Interoute](https://www.interoute.fr/what-saas)
 - [Wikipedia - Logiciel en tant que service](https://fr.wikipedia.org/wiki/Logiciel_en_tant_que_service)
 - [Le Big Data - Définition SaaS](https://www.lebigdata.fr/definition-saas)
 - [Ionos](https://www.ionos.fr/digitalguide/serveur/know-how/saas-software-as-a-service/)
 
-## EXEMPLE D’APPLICATIONS
+## Exemples d'application
 
 Voici des exemples d’applications SaaS courantes :
 
