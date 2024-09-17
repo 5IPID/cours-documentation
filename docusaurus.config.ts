@@ -79,6 +79,11 @@ const config: Config = {
           sidebarId: 'documentationSidebar',
           position: 'left',
           label: 'Documentation',
+        },{
+          type: 'docSidebar',
+          sidebarId: 'exerciceSidebar',
+          position: 'left',
+          label: 'Exercices',
         },
         {
           href: 'https://github.com/5IPID/cours-documentation.git',

@@ -4,4 +4,4 @@ documentationSidebar: documentationSidebar
 title: Introduction
 ---
 
-# Introduction au cours de Développement et intégration d'application
+# Section avec les différents exercices et mise à jour des corrections
