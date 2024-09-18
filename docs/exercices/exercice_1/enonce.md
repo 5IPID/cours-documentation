@@ -38,7 +38,7 @@ Développer une application React affichant une fiche de profil à partir d'un t
         ```
     - Initialisation du projet : 
         ```bash
-        npx create-react-app . --template typescript
+        npm create vite profile-management --template react-ts
         ```
 - **Branching** : Créez une nouvelle branche pour chaque étape avec la commande suivante :
     ```bash
