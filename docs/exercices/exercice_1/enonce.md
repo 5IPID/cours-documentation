@@ -27,11 +27,7 @@ Développer une application React affichant une fiche de profil à partir d'un t
 
 ## Instructions Git
 - **La branche main** : Créer une première branche main pour recevoir l'initialisation du projet
-    - Création du repo dans github
-    - Clone de la branche main
-        ```bash
-        git clone project-url
-        ```
+    - Création du dossier sur votre machine
     - On navigue dans ce dossier en ligne de commande : 
         ```bash
         cd nom-du-projet
@@ -40,6 +36,13 @@ Développer une application React affichant une fiche de profil à partir d'un t
         ```bash
         npm create vite profile-management --template react-ts
         ```
+    - Setup git
+        ```bash
+        git init
+        ```
+    - Création du repo dans github
+    - Suivi du process dans github pour lié votre projet au repo github
+    
 - **Branching** : Créez une nouvelle branche pour chaque étape avec la commande suivante :
     ```bash
     git checkout -b step1-profile-display
