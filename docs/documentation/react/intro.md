@@ -5,9 +5,9 @@ title: Théorie
 ---
 
 
-# Documentation sur React pour des élèves en 3e informatique de gestion
+# Introduction à React
 
-## Introduction à React
+## Introduction
 
 **React** est une bibliothèque JavaScript utilisée pour créer des interfaces utilisateurs dynamiques et interactives. Développée par Facebook, elle permet de créer des composants réutilisables et d'organiser le code de manière modulaire.
 
