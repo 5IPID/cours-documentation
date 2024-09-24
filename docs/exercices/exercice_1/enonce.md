@@ -64,3 +64,7 @@ Développer une application React affichant une fiche de profil à partir d'un t
 
 - Un dépôt Git avec les différentes branches correspondant aux étapes du développement.
 - La branche main doit contenir le produit final après la fusion.
+
+## Correctif : 
+
+- https://github.com/5IPID/profile-management/tree/feature/chakra-ui ==> Envoyez-moi voir pseudo github
