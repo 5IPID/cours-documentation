@@ -29,7 +29,7 @@ Les composants sont les éléments de base dans React. Ils peuvent être des **c
   }
   ```
 
-- **Composants de classe** : Ils sont définis comme des classes ES6 avec une méthode render.
+- **Composants de classe** : Ils sont définis comme des classes ES6 avec une méthode render. (A ne plus utiliser)
 
     ```jsx
     class Bonjour extends React.Component {
@@ -63,7 +63,7 @@ function Salut(props) {
 
 L’état est une fonctionnalité qui permet à un composant de suivre les informations qui peuvent changer au cours de l’exécution. Contrairement aux props, l’état est géré à l’intérieur du composant.
 
-- Exemple avec un composant de classe :
+- Exemple avec un composant de classe (A ne plus utiliser):
 
     ```jsx
     class Compteur extends React.Component {
