@@ -171,6 +171,10 @@ React est une bibliothèque puissante pour créer des interfaces utilisateurs mo
 
 ## Documentation
 
-* https://fr.react.dev/learn/thinking-in-react
+* Penser en React : https://fr.react.dev/learn/thinking-in-react
+* Framework UI Chakra ui (vitejs installation) : https://v2.chakra-ui.com/getting-started/vite-guide
+* React router : https://reactrouter.com/en/main
+
+
 
 N’oubliez pas de consulter la documentation officielle de React pour approfondir votre apprentissage : https://reactjs.org/.
