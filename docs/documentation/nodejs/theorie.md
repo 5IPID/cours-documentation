@@ -35,7 +35,7 @@ Node.js suit l'architecture des modules CommonJS. Chaque fichier JavaScript dans
 Pour installer un module avec npm, vous pouvez utiliser la commande suivante dans votre terminal :
 
 ```bash
-npm install <nom_du_module>
+npm install nom_du_module
 ```
 
 Par exemple, pour installer Express, un framework web populaire pour Node.js, vous pouvez exécuter :
