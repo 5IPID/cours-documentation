@@ -54,10 +54,10 @@ app.listen(3000, () => {
 
 ### Explication du code
 
-* const express = require('express'); : Cette ligne importe le module Express dans votre application.
-* const app = express(); : Cette ligne initialise une nouvelle application Express.
-* app.get('/', (req, res) => { ... }); : Ceci définit une route GET pour l’URL racine /. Lorsqu’un utilisateur accède à cette URL, la fonction de rappel est exécutée, envoyant la réponse ‘Hello, Express!’ au client.
-* app.listen(3000, () => { ... }); : Cette ligne démarre le serveur et le fait écouter les requêtes entrantes sur le port 3000. Le message “Serveur démarré…” est affiché dans la console une fois que le serveur est prêt.
+* `const express = require('express');` : Cette ligne importe le module Express dans votre application.
+* `const app = express();` : Cette ligne initialise une nouvelle application Express.
+* `app.get('/', (req, res) => { ... });` : Ceci définit une route GET pour l’URL racine /. Lorsqu’un utilisateur accède à cette URL, la fonction de rappel est exécutée, envoyant la réponse ‘Hello, Express!’ au client.
+* `app.listen(3000, () => { ... });` : Cette ligne démarre le serveur et le fait écouter les requêtes entrantes sur le port 3000. Le message “Serveur démarré…” est affiché dans la console une fois que le serveur est prêt.
 
 ## Les Middlewares dans Express.js
 
