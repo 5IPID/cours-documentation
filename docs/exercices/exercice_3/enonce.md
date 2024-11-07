@@ -83,9 +83,12 @@ Fournir une interface centralisée et accessible pour permettre aux administrate
 
 ### Architecture générale
 
-1. **Front-end (React avec Vite)**
-   - Utilisation de **React** avec **Vite** pour la rapidité de compilation et le support du hot-reload.
+1. **Front-end (React avec Vite et Mantine)**
+   - Utilisation de **React** avec **Vite** pour une compilation rapide et le support du hot-reload.
    - Structure de projet en **composants fonctionnels** organisés par fonctionnalités.
+   - **Mantine** est utilisé comme framework UI, offrant des composants préréglés et des hooks pour un design réactif et une expérience utilisateur fluide.
+     - Utilisation des composants Mantine pour la mise en page (comme `Grid`, `Container`), pour les formulaires (`TextInput`, `Button`, `Modal` pour les actions d'ajout et d'édition).
+     - **Notifications** de Mantine pour les messages de succès ou d’erreur.
    - Gestion de l’état avec un **state management** (par exemple, Context API ou Redux si l’application s’élargit).
    - Appels API asynchrones via **Axios** ou **Fetch API** pour interagir avec le back-end.
 
@@ -107,22 +110,28 @@ Fournir une interface centralisée et accessible pour permettre aux administrate
 
 #### 1. Consultation des utilisateurs
 - **Front-end** : Composant `UserList` avec pagination et appels API pour la liste des utilisateurs.
+  - Utilisation de `Table` de Mantine pour afficher la liste des utilisateurs avec pagination intégrée.
+  - Filtrage de colonnes et options de tri avec les composants de table Mantine.
 - **Back-end** : Route **GET /users** pour récupérer la liste paginée des utilisateurs.
 
 #### 2. Ajout d’un utilisateur
 - **Front-end** : Composant `UserForm` pour ajouter un utilisateur, avec validation.
+  - Formulaire construit avec les composants de formulaire de Mantine (`TextInput`, `Select`, `Button`).
 - **Back-end** : Route **POST /users** pour ajouter un nouvel utilisateur.
 
 #### 3. Modification d’un utilisateur
 - **Front-end** : Composant `UserForm` en mode édition pour modifier les informations.
+  - `Modal` de Mantine pour ouvrir le formulaire en mode édition.
 - **Back-end** : Route **PUT /users/:id** pour mettre à jour un utilisateur.
 
 #### 4. Suppression d’un utilisateur
 - **Front-end** : Bouton « Supprimer » dans `UserList`, confirmation avant suppression.
+  - Utilisation d'une `Modal` de confirmation de Mantine pour vérifier la suppression.
 - **Back-end** : Route **DELETE /users/:id** pour supprimer un utilisateur.
 
 #### 5. Recherche d’un utilisateur
 - **Front-end** : Champ de recherche dans `UserList`.
+  - Utilisation du composant `TextInput` pour la recherche, qui peut filtrer dynamiquement les résultats.
 - **Back-end** : Route **GET /users/search** pour rechercher par nom ou email.
 
 ---
