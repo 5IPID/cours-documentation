@@ -4,7 +4,7 @@ documentationSidebar: exerciceSidebar
 title: Structure Backend
 ---
 
-# Structure backend
+# Exemple de structure backend
 
 ## Structure de dossier recommandée
 
