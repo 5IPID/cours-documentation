@@ -74,3 +74,17 @@ title: Consignes
   - Authentification sécurisée.
   - Gestion des utilisateurs et rôles.
   - Gestion des biens.
+
+### 6. **La présentation**
+
+La présentation devra contenir les éléments suivants : 
+
+- Quels sont les besoins de votre client ?
+- Quel est la solution fonctionnelle ?
+- Quel est la solution technique ?
+- Quels sont les problèmes et problématiques rencontrés et comment y avez-vous répondu ?
+- Quels sont les défis que vous avez relevé ?
+- Quels sont les apprentissages ? 
+- Votre conclusion 
+- Questions 
+
