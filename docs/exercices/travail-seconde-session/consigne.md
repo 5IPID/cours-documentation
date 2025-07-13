@@ -12,9 +12,9 @@ Le travail pour la seconde session est un travail individuel !
 
 Il y a trois parties pour l’évaluation, une partie analyse, une partie développement et une partie présentation. Vous recevez par e-mail la ou les parties que vous devez repasser.
 
-- La partie analyse devra être remise pour le **lundi 16 juin 2025** au plus tard.
-- Le code devra être remis pour le **vendredi 20 juin 2025** au plus tard.
-- La présentation se fera la **semaine du 23 Juin 2025**, je vous communiquerai la date au plus vite dès que j’ai la date pour un local. La présentation se fera en présentiel ! Si la date est trop tard par rapport à la présentation du TFE, communiquez-le-moi rapidement que je puisse revoir les dates.
+- La partie analyse devra être remise pour le **lundi 18 Août 2025** au plus tard.
+- Le code devra être remis pour le **mercredi 20 Août 2025** au plus tard.
+- La présentation se fera le **vendredi 22 Août 2025**.
 
 ---
 
@@ -27,7 +27,7 @@ Il y a trois parties pour l’évaluation, une partie analyse, une partie dével
 
 - Pour chacune des stories, je désire avoir :  
   - Un mockup  
-  - Une analyse fonctionnelle  
+  - Une analyse fonctionnelle
   - Une analyse technique :
     - Schéma DB
     - Modèle Objet lié à la story
@@ -115,3 +115,7 @@ Un marché est défini par :
 - Voir les différents marchés pour lesquels ils ont postulés avec les statuts (accepté / refusé)
 - Choisir un marché et déposer leur candidature
 - Retirer leur candidature
+
+## Questions / Contact
+
+J'aurai un accès fortement limité à mes e-mails du 20 juillet au 3 aoüt, n'hésitez pas à me conctacter si vous avez des questions.
