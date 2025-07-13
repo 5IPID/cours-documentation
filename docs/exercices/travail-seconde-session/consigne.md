@@ -10,7 +10,7 @@ title: Consignes
 
 Le travail pour la seconde session est un travail individuel !
 
-Il y a trois parties pour l’évaluation, une partie analyse, une partie développement et une partie présentation. Vous recevez par e-mail la ou les parties que vous devez repasser.
+Il y a trois parties pour l’évaluation, une partie analyse, une partie développement et une partie présentation.
 
 - La partie analyse devra être remise pour le **lundi 18 Août 2025** au plus tard.
 - Le code devra être remis pour le **mercredi 20 Août 2025** au plus tard.
@@ -115,6 +115,10 @@ Un marché est défini par :
 - Voir les différents marchés pour lesquels ils ont postulés avec les statuts (accepté / refusé)
 - Choisir un marché et déposer leur candidature
 - Retirer leur candidature
+
+## Tips :
+
+- L'utilisation de l'AI est authorisée et conseillée, mais vous devez pouvoir comprendre ce qu'elle a fait pour vous.
 
 ## Questions / Contact
 
